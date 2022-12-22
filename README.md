@@ -1,3 +1,3 @@
 # Sofia
-##editing the file
-its a markdown file in this repository
+##Editing the file
+###its a markdown file in this repository
